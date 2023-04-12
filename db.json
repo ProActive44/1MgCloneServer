@@ -1,12 +1,24 @@
 {
-    "data": [
-         {
-            "id":1,
-            "title":"1mgClone"
-         },
-         {
-            "id":2,
-            "title":"web11"
-         }
-    ]
+  "Popular_Combo_Deals": [
+    {
+      "id": 1,
+      "title": "Tata 1mg Diabetes Care Combo Pack for Cholesterol & Blood Sugar Management",
+      "image": "https://onemg.gumlet.io/images/c_fit,q_auto,h_150,…o-pack-for-cholesterol-blood-sugar-management.jpg",
+      "rating": 4.4,
+      "description": "combo pack of 3 Packs",
+      "oldMRP": 1085,
+      "discount": "50%OFF",
+      "price": "539"
+    },
+    {
+        "id": 2,
+        "title": "Accu-Chek Combo Pack of Active 50 Test Strip & 2 Pack of Softclix Lancet (25 Each)",
+        "image": "https://onemg.gumlet.io/images/c_fit,q_auto,h_150,…-test-strip-2-pack-of-softclix-lancet-25-each.jpg",
+        "rating": 4.3,
+        "description": "combo pack of 3 units",
+        "oldMRP": 1299,
+        "discount": "11%OFF",
+        "price": "1146"
+      }
+  ]
 }
