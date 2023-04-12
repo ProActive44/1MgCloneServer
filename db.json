@@ -100,6 +100,108 @@
       "discount": "6%OFF",
       "price": "518"
     }
-  ]
+  ],
 
+  "Calcium_supplement": [
+    {
+      "id": 1,
+      "title": "Shelcal 500 Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/2f386cc9d24f45ddb0c8460b9670547a.jpg",
+      "rating": 4.5,
+      "description": "strip of 15 tablets",
+      "oldMRP": 131.3,
+      "discount": "15%OFF",
+      "price": 111
+    },
+    {
+      "id": 2,
+      "title": "Tata 1mg Calcium & Vitamin D Supplement Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/d71824667b96449b91be8b6a597cc2df.jpg",
+      "rating": 4.4,
+      "description": "bottle of 15 tablets",
+      "oldMRP": 99,
+      "discount": "14%OFF",
+      "price": 85
+    },
+    {
+      "id": 3,
+      "title": "Ostocalcium Plus Chewable Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ccbd04e6b3554d3983becc0ec68d82e0.jpg",
+      "rating": 4.6,
+      "description": "bottle of 30 Chewable tablets",
+      "oldMRP": 196.84,
+      "discount": "10%OFF",
+      "price": 177
+    },
+    {
+      "id": 4,
+      "title": "RawRX Organic Calcium and Vitamin D3 Tablet with Vitamin C, Magnesium and Zinc for Bone Health & Joint Pain",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/93888e0c67d44eae916513bf464e1e6a.jpg",
+      "rating": 4.4,
+      "description": "bottle of 30 tablets",
+      "oldMRP": 745,
+      "discount": "20%OFF",
+      "price": 594
+    },
+    {
+      "id": 5,
+      "title": "Carbamide Forte Calcium Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/a871807dafe9483084c5a780191dd090.jpg",
+      "rating": 4.4,
+      "description": "box of 120 tablets",
+      "oldMRP": 695,
+      "discount": "14%OFF",
+      "price": 599
+    },
+    {
+      "id": 6,
+      "title": "Inlife Calcium Vitamin D3 Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/duapgnzx4k0iupahsy1t.jpg",
+      "rating": 4.3,
+      "description": "bottle of 60 tablets",
+      "oldMRP": 449,
+      "discount": "38%OFF",
+      "price": 277
+    },
+    {
+      "id": 7,
+      "title": "HealthKart HK Vitals Calcium + Magnesium + Zinc Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/b309a4f4339f4433a36bcf5dffcb28af.jpg",
+      "rating": 4.1,
+      "description": "bottle of 60 tablets",
+      "oldMRP": 499,
+      "discount": "37%OFF",
+      "price": 315
+    },
+    {
+      "id": 8,
+      "title": "Tata 1mg Vitamin D3 Capsule",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/d3fe87a68c7c4b27a0061dea72209a76.jpg",
+      "rating": 4.5,
+      "description": "bottle of 60 Capsules",
+      "oldMRP": 595,
+      "discount": "40%OFF",
+      "price": 357
+    },
+    {
+      "id": 9,
+      "title": "Depura Cal, Calcium and Vitamin D3 1000IU Tablet, Improves Bones Health, Prevents Osteoporosis",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/bsskhqhatxigwlwx4a7z.jpg",
+      "rating": 4.4,
+      "description": "strip of 10 tablets",
+      "oldMRP": 175.66,
+      "discount": "15%OFF",
+      "price": 148
+    },
+    {
+      "id": 10,
+      "title": "Tata 1mg Women's Multivitamin Veg Tablet with Zinc, Vitamin C, Calcium",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/qh1au45w8u7cfvf3lg3i.jpg",
+      "rating": 4.3,
+      "description": "bottle of 60 tablets",
+      "oldMRP": 995,
+      "discount": "55%OFF",
+      "price": 443
+    }
+  ]
 }
