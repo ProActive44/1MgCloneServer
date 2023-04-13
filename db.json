@@ -514,6 +514,109 @@
     }
   ],
 
+  "Bodymassagers": [
+    {
+      "id": 1,
+      "title": "Dr Physio Hammer Massager Pro Black",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/9fd904e9b1694ae7a6d543ee2064381b.jpg",
+      "rating": 3.2,
+      "description": "packet of 1 Unit",
+      "oldMRP": 4000,
+      "discount": "62% off",
+      "price": 1499
+    },
+    {
+      "id": 2,
+      "title": "Beurer MG 40 Infra Red Massager with Rotating Head White",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/xybnrx46tocwtrtnx1v2.jpg",
+      "rating": 3.2,
+      "description": "box of 1 Massager",
+      "oldMRP": 3270,
+      "discount": "26% off",
+      "price": 2399
+    },
+    {
+      "id": 3,
+      "title": "Dr Physio Sports Body 1002 Massager for Pain Relief Black",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/c4d7ef024e194df9a4b3ee6ffecf99c5.jpg",
+      "rating": 3.8,
+      "description": "box of 1 Unit",
+      "oldMRP": 3000,
+      "discount": "39% off",
+      "price": 1830
+    },
+    {
+      "id": 4,
+      "title": "beatXP Blaze Electric Handheld Body Massager with 3 Massage Heads",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/d73gxzuxlizlfvhbiyze.jpg",
+      "rating": 3.8,
+      "description": "box of 1 Massager",
+      "oldMRP": 2999,
+      "discount": "61% off",
+      "price": 1170
+    },
+    {
+      "id": 5,
+      "title": "HealthSense HM 210 Toner-Pro Electric Body Massager",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/387fe53f0b314dba9bddae5f659e09e7.jpg",
+      "rating": 3.8,
+      "description": "box of 1 Massager",
+      "oldMRP": 2200,
+      "discount": "22% off",
+      "price": 1699
+    },
+    {
+      "id": 6,
+      "title": "Dr Physio Electrical Nerve Stimulation Pulse Digital Massager Machine White",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/387fe53f0b314dba9bddae5f659e09e7.jpg",
+      "rating": 3.7,
+      "description": "box of 1 Unit",
+      "oldMRP": 2000,
+      "discount": "43% off",
+      "price": 1136
+    },
+    {
+      "id": 7,
+      "title": "Dominion Care Magic Massager",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/xgldyeyndq0i3zpwglpe.jpg",
+      "rating": 4.1,
+      "description": "box of 1 Massager",
+      "oldMRP": 2099,
+      "discount": "29% off",
+      "price": 1492
+    },
+    {
+      "id": 8,
+      "title": "Dominion Care Powerful Electric Double Head Hammerpro Body Massager",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/mfzbn8le1aj0k2njbeek.jpg",
+      "rating": 3.4,
+      "description": "box of 1 Massager",
+      "oldMRP": 1499,
+      "discount": "34% off",
+      "price": 989
+    },
+    {
+      "id": 9,
+      "title": "Dominion Care Spring Acupressure and Magnetic Therapy Paduka Slippers Size 6",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/is5k7des0nnhtlvr4pxj.jpg",
+      "rating": 3.1,
+      "description": "box of 1 Massager",
+      "oldMRP": 999,
+      "discount": "66% off",
+      "price": 340
+    },
+    {
+      "id": 10,
+      "title": "Vandelay Wireless Body Massage Gun Black",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ac42f63e4d3d40708b3914caaafa7e77.jpg",
+      "rating": 3.1,
+      "description": "box of 1 Unit",
+      "oldMRP": 4999,
+      "discount": "26% off",
+      "price": 3699
+    }
+  ],
+
   "cart": [
     {
       "id": 1,
