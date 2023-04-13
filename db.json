@@ -203,5 +203,108 @@
       "discount": "55%OFF",
       "price": 443
     }
+  ],
+
+  "Spotlight": [
+    {
+      "id": 1,
+      "title": "RawRX Organic Calcium and Vitamin D3 Tablet with Vitamin C, Magnesium and Zinc",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/93888e0c67d44eae916513bf464e1e6a.jpg",
+      "rating": 4.4,
+      "description": "bottle of 30 tablets",
+      "oldMRP": 745,
+      "discount": "20% off",
+      "price": 594
+    },
+    {
+      "id": 2,
+      "title": "Dr Morepen BP 02 Blood Pressure Monitor",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/tjwwwbb8c0wdf0eiehfb.jpg",
+      "rating": 3.9,
+      "description": "box of 1 Unit",
+      "oldMRP": 1455,
+      "discount": "23% off",
+      "price": 1120
+    },
+    {
+      "id": 3,
+      "title": "Kapiva Himalayan Shilajit",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/7027d6aa15774c749949df7881097ecf.jpg",
+      "rating": 4.1,
+      "description": "jar of 20 gm Pack",
+      "oldMRP": 1499,
+      "discount": "36% off",
+      "price": 949
+    },
+    {
+      "id": 4,
+      "title": "Cetaphil Cleansing & Moisturising Syndet Bar",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/l40qtzjxsynpmvqdvfxl.jpg",
+      "rating": 4.5,
+      "description": "packet of 20 gm Saop",
+      "oldMRP": 225,
+      "discount": "12% off",
+      "price": 198
+    },
+    {
+      "id": 5,
+      "title": "Carbamide Forte Calcium Tablet",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/a871807dafe9483084c5a780191dd090.jpg",
+      "rating": 4.4,
+      "description": "box of 120 tablets",
+      "oldMRP": 695,
+      "discount": "14% off",
+      "price": 599
+    },
+    {
+      "id": 6,
+      "title": "Contour Plus Blood Glucose Test Strip (Only Strips)",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/xf6ogn1ygwsa8jgbcfaq.jpg",
+      "rating": 4.5,
+      "description": "box of 50 Test Strips",
+      "oldMRP": 999,
+      "discount": "11% off",
+      "price": 891
+    },
+    {
+      "id": 7,
+      "title": "OneTouch Verio Test Strip (Only Strips)",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/i9qxdbmdngqric7qiib0.jpg",
+      "rating": 4.5,
+      "description": "box of 50 Test Strips",
+      "oldMRP": 1145,
+      "discount": "5% off",
+      "price": 1088
+    },
+    {
+      "id": 8,
+      "title": "Sensodyne Rapid Relief Sensitive Toothpaste",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ihpik5rcg4jmudh7jvnn.jpg",
+      "rating": 4.5,
+      "description": "tube of 80 gm Toothpaste",
+      "oldMRP": 180,
+      "discount": "2% off",
+      "price": 176
+    },
+    {
+      "id": 9,
+      "title": "Dr Morepen BG 03 Gluco One Glucose Monitoring System Glucometer",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/qd8eaznzsf3det7qrytk.jpg",
+      "rating": 4.1,
+      "description": "box of 1 Kit",
+      "oldMRP": 1164,
+      "discount": "56% off",
+      "price": 508
+    },
+    {
+      "id": 10,
+      "title": "Cetaphil Gentle Skin Cleanser Dry to Normal, Sensitive Skin",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/lr1qvaffxz9ldjqks6rn.jpg",
+      "rating": 4.5,
+      "description": "bottle of 500ml Cleanser",
+      "oldMRP": 850,
+      "discount": "6% off",
+      "price": 799
+    }
   ]
 }
