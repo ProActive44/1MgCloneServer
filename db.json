@@ -367,7 +367,7 @@
       "description": "bottle of 200 ml Lotion",
       "oldMRP": 259,
       "discount": "19% off",
-      "price": 209  
+      "price": 209
     },
     {
       "id": 7,
@@ -614,7 +614,7 @@
       "oldMRP": 2000,
       "discount": "43% off",
       "price": 1136
-    },
+    }
   ],
 
   "FootHealth": [
