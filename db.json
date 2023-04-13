@@ -409,5 +409,108 @@
       "discount": "7% off",
       "price": 279
     }
+  ],
+
+  "Breakfast": [
+    {
+      "id": 1,
+      "title": "True Elements No Added Sugar Muesli",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/d85851166f594187a67174499a222eec.jpg",
+      "rating": 4.3,
+      "description": "box of 1000 gm Muesli",
+      "oldMRP": 695,
+      "discount": "14% off",
+      "price": 598
+    },
+    {
+      "id": 2,
+      "title": "Saffola Masala Oats Classic Masala",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/wf4epamdbrwhyus9oz6f.jpg",
+      "rating": 4.5,
+      "description": "packet of 500 gm Oats",
+      "oldMRP": 207,
+      "discount": "8% off",
+      "price": 190
+    },
+    {
+      "id": 3,
+      "title": "Bagrry's Crunchy No Added Sugar Muesli",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/opj6r4zzusf5654ubggc.jpg",
+      "rating": 4.1,
+      "description": "jar of 1000 gm Muesli",
+      "oldMRP": 599,
+      "discount": "12% off",
+      "price": 524
+    },
+    {
+      "id": 4,
+      "title": "Saffola Masala Oats Peppy Tomato",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/oxerorszcvlk29l5o80z.jpg",
+      "rating": 4.5,
+      "description": "packet of 500 gm Oats",
+      "oldMRP": 207,
+      "discount": "8% off",
+      "price": 190
+    },
+    {
+      "id": 5,
+      "title": "Bagrry's Crunchy Fruit and Nut with Cranberries Muesli",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/z2ytzve7sozuhtaykshg.jpg",
+      "rating": 4.1,
+      "description": "packet of 750 gm Muesli",
+      "oldMRP": 525,
+      "discount": "14% off",
+      "price": 452
+    },
+    {
+      "id": 6,
+      "title": "True Elements Fruit and Nut Muesli",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/bc042477100447a38bd7c1506d5728ae.jpg",
+      "rating": 4.3,
+      "description": "box of 1000 gm Muesli",
+      "oldMRP": 695,
+      "discount": "17% off",
+      "price": 577
+    },
+    {
+      "id": 7,
+      "title": "Heka Bites Healthy & Delicious All Day Fruit & Nut Mix",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/b67e19562e5e40aabf24b8d86c2ff6e1.jpg",
+      "rating": 3.9,
+      "description": "box of 1000 gm Muesli",
+      "oldMRP": 500,
+      "discount": "38% off",
+      "price": 310
+    },
+    {
+      "id": 8,
+      "title": "Delight Nuts California Almond Natural",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/c0lilanwygtqc9xu5d46.jpg",
+      "rating": 4.1,
+      "description": "packet of 200 gm Dry Fruits",
+      "oldMRP": 349,
+      "discount": "27% off",
+      "price": 255
+    },
+    {
+      "id": 9,
+      "title": "Saffola Oats with Saffola Oats 300gm Free",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/770bcb7dbdf645ed9a332ac829664a42.jpg",
+      "rating": 4.4,
+      "description": "packet of 1 kg Oats",
+      "oldMRP": 225,
+      "discount": "1% off",
+      "price": 210
+    },
+    {
+      "id": 10,
+      "title": "Delight Nuts Chilean Walnuts Kernels Premium Quality",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ja5zsks98qfj0jipagra.jpg",
+      "rating": 4.4,
+      "description": "packet of 200 gm Dry Fruits",
+      "oldMRP": 625,
+      "discount": "29% off",
+      "price": 443
+    }
   ]
 }
