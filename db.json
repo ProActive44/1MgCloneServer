@@ -567,16 +567,6 @@
     },
     {
       "id": 6,
-      "title": "Dr Physio Electrical Nerve Stimulation Pulse Digital Massager Machine White",
-      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/387fe53f0b314dba9bddae5f659e09e7.jpg",
-      "rating": 3.7,
-      "description": "box of 1 Unit",
-      "oldMRP": 2000,
-      "discount": "43% off",
-      "price": 1136
-    },
-    {
-      "id": 7,
       "title": "Dominion Care Magic Massager",
       "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/xgldyeyndq0i3zpwglpe.jpg",
       "rating": 4.1,
@@ -586,7 +576,7 @@
       "price": 1492
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Dominion Care Powerful Electric Double Head Hammerpro Body Massager",
       "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cropped/mfzbn8le1aj0k2njbeek.jpg",
       "rating": 3.4,
@@ -596,7 +586,7 @@
       "price": 989
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Dominion Care Spring Acupressure and Magnetic Therapy Paduka Slippers Size 6",
       "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/is5k7des0nnhtlvr4pxj.jpg",
       "rating": 3.1,
@@ -606,7 +596,7 @@
       "price": 340
     },
     {
-      "id": 10,
+      "id": 9,
       "title": "Vandelay Wireless Body Massage Gun Black",
       "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ac42f63e4d3d40708b3914caaafa7e77.jpg",
       "rating": 3.1,
@@ -614,7 +604,17 @@
       "oldMRP": 4999,
       "discount": "26% off",
       "price": 3699
-    }
+    },
+    {
+      "id": 10,
+      "title": "Dr Physio Electrical Nerve Stimulation Pulse Digital Massager Machine White",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/387fe53f0b314dba9bddae5f659e09e7.jpg",
+      "rating": 3.7,
+      "description": "box of 1 Unit",
+      "oldMRP": 2000,
+      "discount": "43% off",
+      "price": 1136
+    },
   ],
 
   "cart": [
