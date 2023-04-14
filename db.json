@@ -8,7 +8,7 @@
       "description": "combo pack of 3 Packs",
       "oldMRP": 1085,
       "discount": "50%OFF",
-      "price": "539",
+      "price": 539,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -19,7 +19,7 @@
       "description": "combo pack of 3 units",
       "oldMRP": 1299,
       "discount": "11%OFF",
-      "price": "1146",
+      "price": 1146,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -30,7 +30,7 @@
       "description": "combo pack of 2 bottles",
       "oldMRP": 1644,
       "discount": "45%OFF",
-      "price": "900",
+      "price": 900,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -41,7 +41,7 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 335,
       "discount": "29%OFF",
-      "price": "238",
+      "price": 238,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -52,7 +52,7 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 820,
       "discount": "15%OFF",
-      "price": "697",
+      "price": 697,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -63,7 +63,7 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 2048,
       "discount": "12%OFF",
-      "price": "1792",
+      "price": 1792,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -74,7 +74,7 @@
       "description": "combo pack of 4 Packs",
       "oldMRP": 2612,
       "discount": "13%OFF",
-      "price": "2267",
+      "price": 2267,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -85,7 +85,7 @@
       "description": "combo pack of 2 bottles",
       "oldMRP": 620,
       "discount": "7%OFF",
-      "price": "577",
+      "price": 577,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -96,7 +96,7 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 689,
       "discount": "14%OFF",
-      "price": "588",
+      "price": 588,
       "type": "Popular_Combo_Deals"
     },
     {
@@ -107,7 +107,7 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 550,
       "discount": "6%OFF",
-      "price": "518",
+      "price": 518,
       "type": "Popular_Combo_Deals"
     }
   ],
