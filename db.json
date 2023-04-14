@@ -8,7 +8,8 @@
       "description": "combo pack of 3 Packs",
       "oldMRP": 1085,
       "discount": "50%OFF",
-      "price": "539"
+      "price": "539",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "description": "combo pack of 3 units",
       "oldMRP": 1299,
       "discount": "11%OFF",
-      "price": "1146"
+      "price": "1146",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "description": "combo pack of 2 bottles",
       "oldMRP": 1644,
       "discount": "45%OFF",
-      "price": "900"
+      "price": "900",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 335,
       "discount": "29%OFF",
-      "price": "238"
+      "price": "238",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 820,
       "discount": "15%OFF",
-      "price": "697"
+      "price": "697",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 2048,
       "discount": "12%OFF",
-      "price": "1792"
+      "price": "1792",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "description": "combo pack of 4 Packs",
       "oldMRP": 2612,
       "discount": "13%OFF",
-      "price": "2267"
+      "price": "2267",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "description": "combo pack of 2 bottles",
       "oldMRP": 620,
       "discount": "7%OFF",
-      "price": "577"
+      "price": "577",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 689,
       "discount": "14%OFF",
-      "price": "588"
+      "price": "588",
+      "type": "Popular_Combo_Deals"
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "description": "combo pack of 2 Packs",
       "oldMRP": 550,
       "discount": "6%OFF",
-      "price": "518"
+      "price": "518",
+      "type": "Popular_Combo_Deals"
     }
   ],
 
@@ -111,7 +121,8 @@
       "description": "strip of 15 tablets",
       "oldMRP": 131.3,
       "discount": "15%OFF",
-      "price": 111
+      "price": 111,
+      "type": "Calcium_supplement"
     },
     {
       "id": 2,
@@ -121,7 +132,8 @@
       "description": "bottle of 15 tablets",
       "oldMRP": 99,
       "discount": "14%OFF",
-      "price": 85
+      "price": 85,
+      "type": "Calcium_supplement"
     },
     {
       "id": 3,
@@ -131,7 +143,8 @@
       "description": "bottle of 30 Chewable tablets",
       "oldMRP": 196.84,
       "discount": "10%OFF",
-      "price": 177
+      "price": 177,
+      "type": "Calcium_supplement"
     },
     {
       "id": 4,
@@ -141,7 +154,8 @@
       "description": "bottle of 30 tablets",
       "oldMRP": 745,
       "discount": "20%OFF",
-      "price": 594
+      "price": 594,
+      "type": "Calcium_supplement"
     },
     {
       "id": 5,
@@ -151,7 +165,8 @@
       "description": "box of 120 tablets",
       "oldMRP": 695,
       "discount": "14%OFF",
-      "price": 599
+      "price": 599,
+      "type": "Calcium_supplement"
     },
     {
       "id": 6,
@@ -161,7 +176,8 @@
       "description": "bottle of 60 tablets",
       "oldMRP": 449,
       "discount": "38%OFF",
-      "price": 277
+      "price": 277,
+      "type": "Calcium_supplement"
     },
     {
       "id": 7,
@@ -171,7 +187,8 @@
       "description": "bottle of 60 tablets",
       "oldMRP": 499,
       "discount": "37%OFF",
-      "price": 315
+      "price": 315,
+      "type": "Calcium_supplement"
     },
     {
       "id": 8,
@@ -181,7 +198,8 @@
       "description": "bottle of 60 Capsules",
       "oldMRP": 595,
       "discount": "40%OFF",
-      "price": 357
+      "price": 357,
+      "type": "Calcium_supplement"
     },
     {
       "id": 9,
@@ -191,7 +209,8 @@
       "description": "strip of 10 tablets",
       "oldMRP": 175.66,
       "discount": "15%OFF",
-      "price": 148
+      "price": 148,
+      "type": "Calcium_supplement"
     },
     {
       "id": 10,
@@ -201,7 +220,8 @@
       "description": "bottle of 60 tablets",
       "oldMRP": 995,
       "discount": "55%OFF",
-      "price": 443
+      "price": 443,
+      "type": "Calcium_supplement"
     }
   ],
 
@@ -214,7 +234,8 @@
       "description": "bottle of 30 tablets",
       "oldMRP": 745,
       "discount": "20% off",
-      "price": 594
+      "price": 594,
+      "type": "Spotlight"
     },
     {
       "id": 2,
@@ -224,7 +245,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 1455,
       "discount": "23% off",
-      "price": 1120
+      "price": 1120,
+      "type": "Spotlight"
     },
     {
       "id": 3,
@@ -234,7 +256,8 @@
       "description": "jar of 20 gm Pack",
       "oldMRP": 1499,
       "discount": "36% off",
-      "price": 949
+      "price": 949,
+      "type": "Spotlight"
     },
     {
       "id": 4,
@@ -244,7 +267,8 @@
       "description": "packet of 20 gm Saop",
       "oldMRP": 225,
       "discount": "12% off",
-      "price": 198
+      "price": 198,
+      "type": "Spotlight"
     },
     {
       "id": 5,
@@ -254,7 +278,8 @@
       "description": "box of 120 tablets",
       "oldMRP": 695,
       "discount": "14% off",
-      "price": 599
+      "price": 599,
+      "type": "Spotlight"
     },
     {
       "id": 6,
@@ -264,7 +289,8 @@
       "description": "box of 50 Test Strips",
       "oldMRP": 999,
       "discount": "11% off",
-      "price": 891
+      "price": 891,
+      "type": "Spotlight"
     },
     {
       "id": 7,
@@ -274,7 +300,8 @@
       "description": "box of 50 Test Strips",
       "oldMRP": 1145,
       "discount": "5% off",
-      "price": 1088
+      "price": 1088,
+      "type": "Spotlight"
     },
     {
       "id": 8,
@@ -284,7 +311,8 @@
       "description": "tube of 80 gm Toothpaste",
       "oldMRP": 180,
       "discount": "2% off",
-      "price": 176
+      "price": 176,
+      "type": "Spotlight"
     },
     {
       "id": 9,
@@ -294,7 +322,8 @@
       "description": "box of 1 Kit",
       "oldMRP": 1164,
       "discount": "56% off",
-      "price": 508
+      "price": 508,
+      "type": "Spotlight"
     },
     {
       "id": 10,
@@ -304,7 +333,8 @@
       "description": "bottle of 500ml Cleanser",
       "oldMRP": 850,
       "discount": "6% off",
-      "price": 799
+      "price": 799,
+      "type": "Spotlight"
     }
   ],
 
@@ -317,7 +347,8 @@
       "description": "bottle of 60 soft gelatin Capsules",
       "oldMRP": 550,
       "discount": "15% off",
-      "price": 465
+      "price": 465,
+      "type": "Treading"
     },
     {
       "id": 2,
@@ -327,7 +358,8 @@
       "description": "jar of 950 gm Paste",
       "oldMRP": 395,
       "discount": "15% off",
-      "price": 336
+      "price": 336,
+      "type": "Treading"
     },
     {
       "id": 3,
@@ -337,7 +369,8 @@
       "description": "bottle of 30 gummies",
       "oldMRP": 399,
       "discount": "37% off",
-      "price": 249
+      "price": 249,
+      "type": "Treading"
     },
     {
       "id": 4,
@@ -347,7 +380,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 295,
       "discount": "44% off",
-      "price": 164
+      "price": 164,
+      "type": "Treading"
     },
     {
       "id": 5,
@@ -357,7 +391,8 @@
       "description": "bottle of 500 ml Oil",
       "oldMRP": 330,
       "discount": "15% off",
-      "price": 280
+      "price": 280,
+      "type": "Treading"
     },
     {
       "id": 6,
@@ -367,7 +402,8 @@
       "description": "bottle of 200 ml Lotion",
       "oldMRP": 259,
       "discount": "19% off",
-      "price": 209
+      "price": 209,
+      "type": "Treading"
     },
     {
       "id": 7,
@@ -377,7 +413,8 @@
       "description": "bottle of 60 Capsules",
       "oldMRP": 995,
       "discount": "58% off",
-      "price": 413
+      "price": 413,
+      "type": "Treading"
     },
     {
       "id": 8,
@@ -387,7 +424,8 @@
       "description": "bottle of 100 soft geletine Capsules",
       "oldMRP": 351,
       "discount": "11% off",
-      "price": 312
+      "price": 312,
+      "type": "Treading"
     },
     {
       "id": 9,
@@ -397,7 +435,8 @@
       "description": "bottle of 500 pellets",
       "oldMRP": 300,
       "discount": "7% off",
-      "price": 279
+      "price": 279,
+      "type": "Treading"
     },
     {
       "id": 10,
@@ -407,7 +446,8 @@
       "description": "tube of 150 gm Cream",
       "oldMRP": 300,
       "discount": "7% off",
-      "price": 279
+      "price": 279,
+      "type": "Treading"
     }
   ],
 
@@ -420,7 +460,8 @@
       "description": "box of 1000 gm Muesli",
       "oldMRP": 695,
       "discount": "14% off",
-      "price": 598
+      "price": 598,
+      "type": "Breakfast"
     },
     {
       "id": 2,
@@ -430,7 +471,8 @@
       "description": "packet of 500 gm Oats",
       "oldMRP": 207,
       "discount": "8% off",
-      "price": 190
+      "price": 190,
+      "type": "Breakfast"
     },
     {
       "id": 3,
@@ -440,7 +482,8 @@
       "description": "jar of 1000 gm Muesli",
       "oldMRP": 599,
       "discount": "12% off",
-      "price": 524
+      "price": 524,
+      "type": "Breakfast"
     },
     {
       "id": 4,
@@ -450,7 +493,8 @@
       "description": "packet of 500 gm Oats",
       "oldMRP": 207,
       "discount": "8% off",
-      "price": 190
+      "price": 190,
+      "type": "Breakfast"
     },
     {
       "id": 5,
@@ -460,7 +504,8 @@
       "description": "packet of 750 gm Muesli",
       "oldMRP": 525,
       "discount": "14% off",
-      "price": 452
+      "price": 452,
+      "type": "Breakfast"
     },
     {
       "id": 6,
@@ -470,7 +515,8 @@
       "description": "box of 1000 gm Muesli",
       "oldMRP": 695,
       "discount": "17% off",
-      "price": 577
+      "price": 577,
+      "type": "Breakfast"
     },
     {
       "id": 7,
@@ -480,7 +526,8 @@
       "description": "box of 1000 gm Muesli",
       "oldMRP": 500,
       "discount": "38% off",
-      "price": 310
+      "price": 310,
+      "type": "Breakfast"
     },
     {
       "id": 8,
@@ -490,7 +537,8 @@
       "description": "packet of 200 gm Dry Fruits",
       "oldMRP": 349,
       "discount": "27% off",
-      "price": 255
+      "price": 255,
+      "type": "Breakfast"
     },
     {
       "id": 9,
@@ -500,7 +548,8 @@
       "description": "packet of 1 kg Oats",
       "oldMRP": 225,
       "discount": "1% off",
-      "price": 210
+      "price": 210,
+      "type": "Breakfast"
     },
     {
       "id": 10,
@@ -510,7 +559,8 @@
       "description": "packet of 200 gm Dry Fruits",
       "oldMRP": 625,
       "discount": "29% off",
-      "price": 443
+      "price": 443,
+      "type": "Breakfast"
     }
   ],
 
@@ -523,7 +573,8 @@
       "description": "packet of 1 Unit",
       "oldMRP": 4000,
       "discount": "62% off",
-      "price": 1499
+      "price": 1499,
+      "type": "Bodymassagers"
     },
     {
       "id": 2,
@@ -533,7 +584,8 @@
       "description": "box of 1 Massager",
       "oldMRP": 3270,
       "discount": "26% off",
-      "price": 2399
+      "price": 2399,
+      "type": "Bodymassagers"
     },
     {
       "id": 3,
@@ -543,7 +595,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 3000,
       "discount": "39% off",
-      "price": 1830
+      "price": 1830,
+      "type": "Bodymassagers"
     },
     {
       "id": 4,
@@ -553,7 +606,8 @@
       "description": "box of 1 Massager",
       "oldMRP": 2999,
       "discount": "61% off",
-      "price": 1170
+      "price": 1170,
+      "type": "Bodymassagers"
     },
     {
       "id": 5,
@@ -563,7 +617,8 @@
       "description": "box of 1 Massager",
       "oldMRP": 2200,
       "discount": "22% off",
-      "price": 1699
+      "price": 1699,
+      "type": "Bodymassagers"
     },
     {
       "id": 6,
@@ -573,7 +628,8 @@
       "description": "box of 1 Massager",
       "oldMRP": 2099,
       "discount": "29% off",
-      "price": 1492
+      "price": 1492,
+      "type": "Bodymassagers"
     },
     {
       "id": 7,
@@ -583,7 +639,8 @@
       "description": "box of 1 Massager",
       "oldMRP": 1499,
       "discount": "34% off",
-      "price": 989
+      "price": 989,
+      "type": "Bodymassagers"
     },
     {
       "id": 8,
@@ -593,7 +650,8 @@
       "description": "box of 1 Massager",
       "oldMRP": 999,
       "discount": "66% off",
-      "price": 340
+      "price": 340,
+      "type": "Bodymassagers"
     },
     {
       "id": 9,
@@ -603,7 +661,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 4999,
       "discount": "26% off",
-      "price": 3699
+      "price": 3699,
+      "type": "Bodymassagers"
     },
     {
       "id": 10,
@@ -613,7 +672,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 2000,
       "discount": "43% off",
-      "price": 1136
+      "price": 1136,
+      "type": "Bodymassagers"
     }
   ],
 
@@ -626,7 +686,8 @@
       "description": "packet of 1 Unit",
       "oldMRP": 999,
       "discount": "45% off",
-      "price": 549
+      "price": 549,
+      "type": "FootHealth"
     },
     {
       "id": 2,
@@ -636,7 +697,8 @@
       "description": "packet of 1 Unit",
       "oldMRP": 699,
       "discount": "45% off",
-      "price": 384
+      "price": 384,
+      "type": "FootHealth"
     },
     {
       "id": 3,
@@ -646,7 +708,8 @@
       "description": "box of 1 Pair of Scandals",
       "oldMRP": 1100,
       "discount": "18% off",
-      "price": 899
+      "price": 899,
+      "type": "FootHealth"
     },
     {
       "id": 4,
@@ -656,7 +719,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 699,
       "discount": "33% off",
-      "price": 463
+      "price": 463,
+      "type": "FootHealth"
     },
     {
       "id": 5,
@@ -666,7 +730,8 @@
       "description": "packet of 1 Unit",
       "oldMRP": 999,
       "discount": "45% off",
-      "price": 549
+      "price": 549,
+      "type": "FootHealth"
     },
     {
       "id": 6,
@@ -676,7 +741,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 699,
       "discount": "33% off",
-      "price": 463
+      "price": 463,
+      "type": "FootHealth"
     },
     {
       "id": 7,
@@ -686,7 +752,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 699,
       "discount": "28% off",
-      "price": 499
+      "price": 499,
+      "type": "FootHealth"
     },
     {
       "id": 8,
@@ -696,7 +763,8 @@
       "description": "box of 1 Pair of socks",
       "oldMRP": 396,
       "discount": "22% off",
-      "price": 306
+      "price": 306,
+      "type": "FootHealth"
     },
     {
       "id": 9,
@@ -706,7 +774,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 699,
       "discount": "33% off",
-      "price": 463
+      "price": 463,
+      "type": "FootHealth"
     },
     {
       "id": 10,
@@ -716,7 +785,8 @@
       "description": "box of 1 Unit",
       "oldMRP": 999,
       "discount": "10% off",
-      "price": 899
+      "price": 899,
+      "type": "FootHealth"
     }
   ],
 
@@ -773,4 +843,5 @@
     }
   ]
 
+  // "AllProducts": []
 }
